@@ -2,7 +2,7 @@ import static javax.swing.JOptionPane.showInputDialog;
 
 @SuppressWarnings("all")
 public class Bruch {
-    private int zaehler; // wird automatisch mit 0 initialisiert
+    private int zaehler;
     private int nenner = 1;
     public void setZaehler(int zaehler) {
         this.zaehler = zaehler;
